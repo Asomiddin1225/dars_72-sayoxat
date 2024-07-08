@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51026523276",
+    "project_id": "sayoxatasom",
+    "storage_bucket": "sayoxatasom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51026523276:android:cfb6a977e900e36ac277a9",
+        "android_client_info": {
+          "package_name": "com.example.dars_72"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbN0kmIyUIwfjVCC1_eG79P2zjYdaR_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
